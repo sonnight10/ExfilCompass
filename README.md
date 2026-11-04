@@ -14,24 +14,31 @@
 
 <br>
 
-<img src="docs/img/carte.png" alt="La carte avec ta position, tes quêtes et l'extraction la plus proche" width="860">
-
-<sub>Captures avec des données de démonstration.</sub>
+<img src="docs/img/banniere.png" alt="Tarkov Companion : carte, quêtes, flèche et distance" width="860">
 
 </div>
 
 ## Ce que ça fait
 
-- 🗺️ **Carte interactive** : ta position (à chaque capture d'écran), ton trajet et les objectifs de tes quêtes en cours.
+<div align="center">
+<img src="docs/img/carte.png" alt="La carte avec ta position, tes quêtes et l'extraction la plus proche" width="860">
+
+<sub>Captures avec des données de démonstration.</sub>
+</div>
+
+- 🗺️ **Carte interactive** : ta position (à chaque capture d'écran) avec son cône de vision, ton trajet et les objectifs de tes quêtes en cours. Dézoom très large, échelle en mètres.
+- 🧩 **Carte lisible** : une icône par type de point (extraction, objectif, éliminations, objet, clé, planque, cache) avec une légende, objectifs colorés par marchand et regroupés en pastilles numérotées qui se séparent quand tu zoomes.
 - 🧭 **Flèche vers ton objectif** : suis une quête ou un de tes repères, et une flèche te montre la direction (relative à ton regard) avec la distance.
-- 🪟 **Mini-fenêtre** : une toute petite fenêtre séparée (flèche + distance + nom) qui reste au-dessus du jeu, déplaçable (touche **G**).
+- 🪟 **Mini-fenêtre** : une toute petite fenêtre séparée (flèche + distance + nom) qui reste au-dessus du jeu, déplaçable (touche **G**), avec boussole, barre de progression, alerte verte à moins de 30 m et mode ultra-discret.
 - ✅ **Quêtes automatiques** : lues dans les logs du jeu, rien à cocher à la main.
 - 🚪 **Extractions** de ton camp (PMC ou Scav), avec la plus proche et sa distance.
 - 🎒 **Préparer le raid** : quêtes à faire sur la carte choisie, extractions, repères.
 - 📍 **Repères et mesure** : note tes caches et spawns, mesure une distance.
-- 📊 **Historique et stats** : durée de tes raids, trajet rejouable, zones les plus visitées.
+- 📊 **Historique et stats** : durée de tes raids, trajet rejouable, **comparaison de deux raids**, zones les plus visitées.
+- 🗒️ **Notes par carte**, blocs **déplaçables** et masquables, **mode compact** : tu composes l'écran comme tu veux.
+- 🧙 **Assistant de premier lancement** et bouton **Signaler un problème** (rapport masqué, prêt à coller sur Discord).
 - 🔄 **Mises à jour** intégrées, vérifiées par empreinte SHA-256.
-- 🎨 Thème sombre ou clair, 5 couleurs, français et anglais.
+- 🌍 Interface en **français et en anglais**.
 
 <div align="center">
 <img src="docs/img/quetes.png" alt="Suivi des quêtes" width="420">
@@ -43,6 +50,24 @@
 <img src="docs/img/mini.png" alt="La mini-fenêtre : flèche, distance, nom de la quête" width="264">
 
 <sub>La mini-fenêtre, à taille réelle ×1,5.</sub>
+</div>
+
+## Un affichage qui s'adapte
+
+<div align="center">
+<img src="docs/img/theme-tactical.png" alt="Thème Tactique" width="280">
+<img src="docs/img/theme-night.png" alt="Thème Nuit" width="280">
+<img src="docs/img/theme-contrast.png" alt="Thème Contraste fort" width="280">
+
+<sub>Thèmes Tactique, Nuit et Contraste fort (il y a aussi Sombre, Clair et « Comme Windows »).</sub>
+</div>
+
+- 🎨 **6 thèmes**, 5 couleurs d'accent et une **transparence des blocs** réglable.
+- ✨ **Animations** douces (flèche qui tourne par le chemin le plus court, objectif qui pulse, transitions) que tu peux couper avec **Réduire les animations**.
+- 🔭 **Dézoom** : tu peux t'éloigner bien au-delà de la vue entière pour garder un œil sur l'ensemble de la carte.
+
+<div align="center">
+<img src="docs/img/dezoom.png" alt="La carte dézoomée au maximum avec la légende des icônes" width="560">
 </div>
 
 ## Installation
