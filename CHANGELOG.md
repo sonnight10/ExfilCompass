@@ -1,6 +1,7 @@
 # Changelog
 
 ## 1.3.0
+**Nouveau nom : ExfilCompass** (l'ancien nom « Tarkov Companion » est déjà utilisé par une autre application, sur Overwolf). Nouveau logo, nouvelle bannière, nouvelles captures, interface « Veille » pensée pour jouer la nuit : carte plein écran, menu flottant en colonne d'icônes, pages qui s'ouvrent par-dessus la carte, couleurs sombres et douces (ni blanc pur ni couleur criarde), réglage de luminosité de la carte. Le fichier est désormais `ExfilCompass.exe`. Au premier lancement, tes réglages et ton historique de l'ancien dossier sont repris automatiquement.
 Refonte visuelle.
 Carte : on peut dézoomer bien plus loin (3 niveaux au-delà de la vue entière) ; icônes distinctes (extraction, objectif, éliminations, objet, clé, planque, cache) avec légende masquable ; objectifs colorés selon le marchand ; objectifs proches regroupés en une pastille numérotée qui se sépare en zoomant ; cône de vision plus large pour le joueur et halo qui s'éteint quand la dernière capture est ancienne ; étiquettes d'extraction sans chevauchement ; échelle en mètres qui s'adapte au zoom.
 Style : thèmes Tactique (vert sombre), Nuit (rouge très discret), Contraste fort et « Comme Windows » ; transparence réglable des blocs ; chiffres en police à chasse fixe ; états vides illustrés ; écran de démarrage.
