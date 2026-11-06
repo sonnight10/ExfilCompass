@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34476604/README.md)
 <div align="center">
 
 <img src="assets/logo.png" alt="ExfilCompass" width="110">
